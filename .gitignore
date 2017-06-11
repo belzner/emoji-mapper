@@ -1,13 +1,13 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/emoji-mapper/node_modules
 
 # testing
-/coverage
+/emoji-mapper/coverage
 
 # production
-/build
+/emoji-mapper/build
 
 # misc
 .DS_Store
